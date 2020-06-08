@@ -4,13 +4,13 @@
 This project aims to define a DL workflow that can successfully label interactions between dyadic mice of the same gender, not necessarily same species. The distinction between mice is irrelevant to this study, the focus is at the relation between mice at any given time.
 
 ### Format: 
-Videos are low resolution in gray scale, camera is fixed
+Videos are low resolution (492x656) converted to old gray scale, camera is fixed
 
 ### Tools: 
 Python + OpenCV.
 
 ### Current step: 
-Applying randomized projection in order to reduce the number of parameters decreasing the space used in network
+Applying randomized projection in order to reduce the dimensionality decreasing the space used in network
 
 ### Sample frame from video:
 ![Mice interaction](/images/mice_interaction_example.png)
