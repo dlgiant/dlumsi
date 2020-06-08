@@ -12,5 +12,5 @@ Python + OpenCV.
 ### Current step: 
 Applying randomized projection in order to reduce the number of parameters decreasing the space used in network
 
-### Example:
+### Sample frame from video:
 ![Mice interaction](/images/mice_interaction_example.png)
