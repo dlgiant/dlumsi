@@ -14,3 +14,10 @@ Applying randomized projection in order to reduce the number of parameters decre
 
 ### Sample frame from video:
 ![Mice interaction](/images/mice_interaction_example.png)
+
+### Sample Lucas-Kanode optical flow feature extraction
+![Lucas Kanode](/images/features_extracted_using_naive_lucas_kanode.png)
+
+
+### Other optical flow feature extraction
+![Other Optical Flow](/images/features_extracted_using_other_optical_flow.png)
